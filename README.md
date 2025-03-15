@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 ### 📫 Let's Connect!
 - 📧 Email: [thisaranavodbandara@gmail.com](mailto:thisaranavodbandara@gmail.com)
-- 🔗 [LinkedIn](#)  
-- 💻 [GitHub](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thisaranavodbandara/)  
+- 💻 [GitHub](https://github.com/ThisaraGit99)
 
 Let's build something awesome together! 🚀
